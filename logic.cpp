@@ -1,4 +1,5 @@
 #include "logic.h"
+
 struct Person  
 {  
     char name[30];  
